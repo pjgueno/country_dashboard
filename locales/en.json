@@ -28,6 +28,7 @@
     "inNumbers-title": "Sensor.Community in numbers",
     "inNumbers-activeSensors": "Active sensors worldwide",
     "inNumbers-countries": "Countries",
+    "inNumbers-message": "Click to see more",
     "inNumbers-dataPoints": "Data Points",
     "inNumbers-communityProjects": "Community Projects",
     "inNumbers-communityHubs": "Community Labs",
@@ -100,6 +101,12 @@
     "description": "Find mobile apps, websites,... from our lovely community \uD83D\uDC96️",
     "submitIdea": "Have a great project? Share it with the community!",
     "submitProject": "Submit your project →"
+  },
+   "countries": {
+    "metaDescription": "Find out how much sensors are already installed in your country",
+    "metaTitle": "Countries",
+    "h1": "Countries",
+    "description": "Find out how much sensors are already installed in your country"
   },
   "hubs": {
     "metaDescription": "Find communities around the world \uD83D\uDC96️",

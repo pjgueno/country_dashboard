@@ -89,10 +89,13 @@
             </div>
         </div>
         <div class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs shadow-md border bg-gray-200 w-full md:w-1/3">
+          <a href="{lang}/countries/">
             <div class="rounded bg-gray-200 shadow-md h-64 p-6 flex flex-col justify-around hover:text-white hover:bg-teal-500">
               <p class="block -mb-1 text-base text-grey-dark text-4xl leading-tight ">{i18n.t('index:inNumbers-countries')}</p>
               <p class="text-4xl font-bold block" id="number_countries">{formatNumber(data.numbers.countries)}</p>
+              <p class="block -mb-1 text-base text-grey-dark text-1xl leading-tight ">{i18n.t('index:inNumbers-message')}</p>
             </div>
+          </a>
         </div>
         <div class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs shadow-md border bg-gray-200 w-full md:w-1/3">
             <div class="rounded bg-gray-200 shadow-md h-64 p-6 flex flex-col justify-around hover:text-white hover:bg-teal-300">
